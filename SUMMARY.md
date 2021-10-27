@@ -13,15 +13,13 @@
 
 * [Understand the basics](configuration/understanding-the-basics.md)
 * [Plugin settings](configuration/plugin-settings.md)
-* [Items \(beginners\)](configuration/create-your-first-item.md)
-* [Items \(advanced\)](configuration/items-advanced.md)
+* [Items (beginners)](configuration/create-your-first-item.md)
+* [Items (advanced)](configuration/items-advanced.md)
 * [Item Appearance](configuration/item-appearance.md)
 * [Custom Armors](configuration/custom-armors.md)
 * [Glyphs](configuration/glyphs.md)
 
 ## Mechanics
-
----
 
 * [Introduction](mechanics-introduction.md)
 * [All mechanics](all-mechanics.md)
@@ -49,3 +47,8 @@
 * [Add Compatibility with a plugin](developers/create-your-own-compatibility.md)
 * [Custom hosting service](developers/custom-hosting-service.md)
 
+## Group 1
+
+* [Glyphs](group-1/glyphs/README.md)
+  * [Custom GUIs](group-1/glyphs/custom-guis.md)
+  * [Custom Titles](group-1/glyphs/custom-titles.md)
