@@ -47,8 +47,8 @@
 * [Add Compatibility with a plugin](developers/create-your-own-compatibility.md)
 * [Custom hosting service](developers/custom-hosting-service.md)
 
-## Group 1
+## how-to
 
-* [Glyphs](group-1/glyphs/README.md)
-  * [Custom GUIs](group-1/glyphs/custom-guis.md)
-  * [Custom Titles](group-1/glyphs/custom-titles.md)
+* [Glyphs](how-to/glyphs/README.md)
+  * [Custom GUIs](how-to/glyphs/custom-guis.md)
+  * [Custom Titles](how-to/glyphs/custom-titles.md)
